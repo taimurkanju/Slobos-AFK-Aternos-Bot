@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "friendsmp-CBPM.aternos.me",
+    "port": 27139,
     "version": "",
     "try-creative": false
   },
